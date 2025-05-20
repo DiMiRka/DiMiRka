@@ -6,9 +6,13 @@
 
 ---
 
-### 🛠️ Мой стек технологий  
+### 🛠️ Мой стек технологий
+#### Backend
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
+#### Базы данных
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)]
+
 
 
 ### 📫 Контакты  
