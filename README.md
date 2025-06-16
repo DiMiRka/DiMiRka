@@ -12,10 +12,11 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 #### DevOps
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)]
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 
 
 
 ### 📫 Контакты  
 [![Telegram](https://img.shields.io/badge/-Telegram-0088CC?logo=telegram&logoColor=white)](https://t.me/dimirka_94) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](dimirkaamigo@gmail.com)
