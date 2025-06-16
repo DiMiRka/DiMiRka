@@ -19,4 +19,4 @@
 
 ### 📫 Контакты  
 [![Telegram](https://img.shields.io/badge/-Telegram-0088CC?logo=telegram&logoColor=white)](https://t.me/dimirka_94) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:dimirkaamigo@gmail.com) DimirkaAmigo@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:dimirkaamigo@gmail.com)
