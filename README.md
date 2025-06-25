@@ -3,7 +3,7 @@
 
 ---
 
-### 🛠️ Мой стек технологий
+### 🛠️ Мой стек технологий 
 #### Backend
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
