@@ -6,11 +6,9 @@
 ### 🛠️ My Tech Stack
 #### Backend
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)
 #### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)
 #### DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
