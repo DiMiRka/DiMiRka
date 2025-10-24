@@ -1,9 +1,9 @@
 # Hi, I'm Dima 👋 
-### Beginner Python Backend Developer 
+### Python Backend Developer 
 
 ---
 
-### 🛠️ My Tech Stack
+### My Tech Stack
 #### Backend
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)
