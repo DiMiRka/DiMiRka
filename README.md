@@ -1,5 +1,5 @@
 # Hi, I'm Dima 👋 
-### Python Backend Developer 
+### Python Backend Developer | FastAPI, Django, PostgreSQL | APIs, background jobs & automation
 
 ---
 
